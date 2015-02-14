@@ -1,4 +1,4 @@
 label,sublabel,description,styles,bgcolor
-ゴミ種類１,,,img/moyasu02.svg,#ea3b13
-ゴミ種類２,,,img/moyasanai02.svg,#733b96
-ゴミ種類３,,,img/shigen02.svg,#77ae1f
+可燃ごみ,,,img/moyasu02.svg,#ea3b13
+不燃・粗大ごみ,,,img/moyasanai02.svg,#733b96
+びん・缶・なべ・やかん類の日用品,,,img/shigen02.svg,#77ae1f
